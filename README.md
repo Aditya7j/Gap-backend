@@ -21,7 +21,7 @@ project-gap-website
 
 
 ## deployment Link:-
-https://gap-website-project.netlify.app/
+https://gap-project.herokuapp.com/home
 
  ## Contributers :- 
 - #### [Reshma](https://www.linkedin.com/in/reshma-a8a871189/)
