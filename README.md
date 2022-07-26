@@ -14,7 +14,7 @@ project-gap-website
 # About this project ⏬
 
 <!-- ## Run Locally :-
-``git clone https://github.com/Omkarsalunkhe09/lifestyle.git``
+``git clone gap-project.herokuapp.com/home``
 
 ## Go to project directory:- 
 `cd lifestyle` -->
